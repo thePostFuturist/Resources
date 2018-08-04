@@ -79,8 +79,6 @@ Go through the playlists 1-6 in Rendering and Shading in the graphics manual.
 
 -   [The Standard Shader](The%20Standard%20Shader)
 
--   Textures
-
 -   [Using
     Skyboxes](https://unity3d.com/learn/tutorials/topics/graphics/using-skyboxes?playlist=17102)
 
