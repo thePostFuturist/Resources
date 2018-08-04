@@ -70,41 +70,41 @@ skip to [Light
 Types](https://unity3d.com/learn/tutorials/topics/graphics/light-types?playlist=17102).
 Go through the playlists 1-6 in Rendering and Shading in the graphics manual.
 
-[Lighting
-Overview](https://unity3d.com/learn/tutorials/topics/graphics/lighting-overview?playlist=17102)
+-   [Lighting
+    Overview](https://unity3d.com/learn/tutorials/topics/graphics/lighting-overview?playlist=17102)
 
-[Lights](https://unity3d.com/learn/tutorials/topics/graphics/lights?playlist=17102)
+-   [Lights](https://unity3d.com/learn/tutorials/topics/graphics/lights?playlist=17102)
 
-[Materials](https://unity3d.com/learn/tutorials/topics/graphics/materials?playlist=17102)
+-   [Materials](https://unity3d.com/learn/tutorials/topics/graphics/materials?playlist=17102)
 
-[The Standard
-Shader](https://unity3d.com/learn/tutorials/topics/graphics/standard-shader?playlist=17102)
+-   [The Standard Shader](The%20Standard%20Shader)
 
-[Textures](https://unity3d.com/learn/tutorials/topics/graphics/textures?playlist=17102)
+-   Textures
 
-Using Skyboxes
+-   [Using
+    Skyboxes](https://unity3d.com/learn/tutorials/topics/graphics/using-skyboxes?playlist=17102)
 
 Go through this [manual
 page](https://docs.unity3d.com/Manual/LightingOverview.html). 
 
 ##### Precomputed Realtime GI (Realtime Global Illumination)
 
-1.  [Introduction to Precomputed Realtime
+-   [Introduction to Precomputed Realtime
     GI](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
 
-2.  [Realtime
+-   [Realtime
     Resolution](https://unity3d.com/learn/tutorials/topics/graphics/realtime-resolution?playlist=17102)
 
-3.  [Starting the precompute
+-   [Starting the precompute
     process](https://unity3d.com/learn/tutorials/topics/graphics/starting-precompute-process?playlist=17102)
 
-4.  [Probe
+-   [Probe
     lighting](https://unity3d.com/learn/tutorials/topics/graphics/probe-lighting?playlist=17102)
 
-5.  [Fine tuning with Lightmap
+-   [Fine tuning with Lightmap
     Parameters](https://unity3d.com/learn/tutorials/topics/graphics/fine-tuning-lightmap-parameters?playlist=17102)
 
-6.  [Summary - Precomputed Realtime
+-   [Summary - Precomputed Realtime
     GI](https://unity3d.com/learn/tutorials/topics/graphics/summary-precomputed-realtime-gi?playlist=17102)
 
 Texturing
