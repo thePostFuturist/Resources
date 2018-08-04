@@ -1,6 +1,9 @@
 ---
-title: Resources and Subjects
+title: Resources by Subject
 ---
+
+Intro
+=====
 
 Unity is an engine that is built around modularity. Some of it is built in, but
 there are many other plugins that can be imported via its Unity Asset Store, a
@@ -25,28 +28,28 @@ Everyone
 Interface](https://unity3d.com/learn/tutorials/topics/interface-essentials), in
 section Using the Unity Interface, steps 1-6.
 
-1. [Interface
-Overview](https://unity3d.com/learn/tutorials/topics/interface-essentials/interface-overview?playlist=17090)
+1.  [Interface
+    Overview](https://unity3d.com/learn/tutorials/topics/interface-essentials/interface-overview?playlist=17090)
 
-2. [The Scene
-View](https://unity3d.com/learn/tutorials/topics/interface-essentials/scene-view?playlist=17090)
+2.  [The Scene
+    View](https://unity3d.com/learn/tutorials/topics/interface-essentials/scene-view?playlist=17090)
 
-3. [The Game
-View](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-view?playlist=17090)
+3.  [The Game
+    View](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-view?playlist=17090)
 
-4. [The Hierarchy
-Window](https://unity3d.com/learn/tutorials/topics/interface-essentials/hierarchy-window?playlist=17090)
+4.  [The Hierarchy
+    Window](https://unity3d.com/learn/tutorials/topics/interface-essentials/hierarchy-window?playlist=17090)
 
-5. [The Project
-Window](https://unity3d.com/learn/tutorials/topics/interface-essentials/project-window?playlist=17090)
+5.  [The Project
+    Window](https://unity3d.com/learn/tutorials/topics/interface-essentials/project-window?playlist=17090)
 
-6. [The Inspector
-Window](https://unity3d.com/learn/tutorials/topics/interface-essentials/inspector-window?playlist=17090)
+6.  [The Inspector
+    Window](https://unity3d.com/learn/tutorials/topics/interface-essentials/inspector-window?playlist=17090)
 
 Then Essential Unity Concepts 1.
 
-1. [Game Objects and
-Components](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090)
+1.  [Game Objects and
+    Components](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090)
 
 [Git](https://unity3d.com/learn/tutorials/topics/cloud-build/creating-your-first-source-control-repository),
 a version control system that we will use for collaboration.
@@ -67,46 +70,43 @@ skip to [Light
 Types](https://unity3d.com/learn/tutorials/topics/graphics/light-types?playlist=17102).
 Go through the playlists 1-6 in Rendering and Shading in the graphics manual.
 
-1. [Lighting
-Overview](https://unity3d.com/learn/tutorials/topics/graphics/lighting-overview?playlist=17102)
+>   [Lighting
+>   Overview](https://unity3d.com/learn/tutorials/topics/graphics/lighting-overview?playlist=17102)
 
-2.
-[Lights](https://unity3d.com/learn/tutorials/topics/graphics/lights?playlist=17102)
+>   [Lights](https://unity3d.com/learn/tutorials/topics/graphics/lights?playlist=17102)
 
-3.
-[Materials](https://unity3d.com/learn/tutorials/topics/graphics/materials?playlist=17102)
+>   [Materials](https://unity3d.com/learn/tutorials/topics/graphics/materials?playlist=17102)
 
-4. [The Standard
-Shader](https://unity3d.com/learn/tutorials/topics/graphics/standard-shader?playlist=17102)
+>   [The Standard
+>   Shader](https://unity3d.com/learn/tutorials/topics/graphics/standard-shader?playlist=17102)
 
-5.
-[Textures](https://unity3d.com/learn/tutorials/topics/graphics/textures?playlist=17102)
+>   [Textures](https://unity3d.com/learn/tutorials/topics/graphics/textures?playlist=17102)
 
-6. [Using
-Skyboxes](https://unity3d.com/learn/tutorials/topics/graphics/using-skyboxes?playlist=17102)
+>   [Using
+>   Skyboxes](https://unity3d.com/learn/tutorials/topics/graphics/using-skyboxes?playlist=17102)
 
 Go through this [manual
 page](https://docs.unity3d.com/Manual/LightingOverview.html). 
 
 ##### Precomputed Realtime GI (Realtime Global Illumination)
 
-1. [Introduction to Precomputed Realtime
-GI](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
+1.  [Introduction to Precomputed Realtime
+    GI](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
 
-2. [Realtime
-Resolution](https://unity3d.com/learn/tutorials/topics/graphics/realtime-resolution?playlist=17102)
+2.  [Realtime
+    Resolution](https://unity3d.com/learn/tutorials/topics/graphics/realtime-resolution?playlist=17102)
 
-4. [Starting the precompute
-process](https://unity3d.com/learn/tutorials/topics/graphics/starting-precompute-process?playlist=17102)
+3.  [Starting the precompute
+    process](https://unity3d.com/learn/tutorials/topics/graphics/starting-precompute-process?playlist=17102)
 
-5. [Probe
-lighting](https://unity3d.com/learn/tutorials/topics/graphics/probe-lighting?playlist=17102)
+4.  [Probe
+    lighting](https://unity3d.com/learn/tutorials/topics/graphics/probe-lighting?playlist=17102)
 
-9. [Fine tuning with Lightmap
-Parameters](https://unity3d.com/learn/tutorials/topics/graphics/fine-tuning-lightmap-parameters?playlist=17102)
+5.  [Fine tuning with Lightmap
+    Parameters](https://unity3d.com/learn/tutorials/topics/graphics/fine-tuning-lightmap-parameters?playlist=17102)
 
-10. [Summary - Precomputed Realtime
-GI](https://unity3d.com/learn/tutorials/topics/graphics/summary-precomputed-realtime-gi?playlist=17102)
+6.  [Summary - Precomputed Realtime
+    GI](https://unity3d.com/learn/tutorials/topics/graphics/summary-precomputed-realtime-gi?playlist=17102)
 
 Texturing
 =========
@@ -154,29 +154,29 @@ Components](https://unity3d.com/learn/tutorials/s/user-interface-ui).
 I'm not sure why the lessons are so granular in segmentation, but each module is
 simply a part of Unity's "Canvas", or a plane that defines the UI elements.
 
-1. [UI
-Canvas](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-canvas?playlist=17111)
+1.  [UI
+    Canvas](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-canvas?playlist=17111)
 
-2. [UI
-RectTransform](https://unity3d.com/learn/tutorials/modules/beginner/ui/rect-transform?playlist=17111)
+2.  [UI
+    RectTransform](https://unity3d.com/learn/tutorials/modules/beginner/ui/rect-transform?playlist=17111)
 
-3. [UI
-Button](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-button?playlist=17111)
+3.  [UI
+    Button](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-button?playlist=17111)
 
-4. [UI
-Image](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-image?playlist=17111)
+4.  [UI
+    Image](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-image?playlist=17111)
 
-5. [UI
-Text](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-text?playlist=17111)
+5.  [UI
+    Text](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-text?playlist=17111)
 
-6. [UI Events and Event
-Triggers](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-events-and-event-triggers?playlist=17111)
+6.  [UI Events and Event
+    Triggers](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-events-and-event-triggers?playlist=17111)
 
-7. [UI
-Slider](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-slider?playlist=17111)
+7.  [UI
+    Slider](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-slider?playlist=17111)
 
-8. [UI
-Transitions](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-transitions?playlist=17111)
+8.  [UI
+    Transitions](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-transitions?playlist=17111)
 
 Learn the basics of mecanim for more advanced animations: [Animate Anything with
 Mecanim](https://unity3d.com/learn/tutorials/topics/animation/animate-anything-mecanim?playlist=17099)
@@ -196,36 +196,36 @@ Timeline is a sequence editor which can animate any object in the scene.
 
 ##### Character Animation
 
-1. [Humanoid
-Avatars](https://unity3d.com/learn/tutorials/topics/animation/humanoid-avatars?playlist=17099)
+1.  [Humanoid
+    Avatars](https://unity3d.com/learn/tutorials/topics/animation/humanoid-avatars?playlist=17099)
 
-2. [Authoring Root
-Motion](https://unity3d.com/learn/tutorials/topics/animation/authoring-root-motion?playlist=17099)
+2.  [Authoring Root
+    Motion](https://unity3d.com/learn/tutorials/topics/animation/authoring-root-motion?playlist=17099)
 
 ##### Controlling Animation
 
-1. [The Animator
-Component](https://unity3d.com/learn/tutorials/topics/animation/animator-component?playlist=17099)
+1.  [The Animator
+    Component](https://unity3d.com/learn/tutorials/topics/animation/animator-component?playlist=17099)
 
-2. [The Animator
-Controller](https://unity3d.com/learn/tutorials/topics/animation/animator-controller?playlist=17099)
+2.  [The Animator
+    Controller](https://unity3d.com/learn/tutorials/topics/animation/animator-controller?playlist=17099)
 
 [Animate Anything with
 Mecanim](https://unity3d.com/learn/tutorials/topics/animation/animate-anything-mecanim?playlist=17099)
 
 ##### Timeline
 
-1. [Using Timeline:
-Overview](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-overview?playlist=17099)
+1.  [Using Timeline:
+    Overview](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-overview?playlist=17099)
 
-2. [Using Timeline: Getting
-Started](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-getting-started?playlist=17099)
+2.  [Using Timeline: Getting
+    Started](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-getting-started?playlist=17099)
 
-3. [Using Timeline: Understanding
-Tracks](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-understanding-tracks?playlist=17099)
+3.  [Using Timeline: Understanding
+    Tracks](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-understanding-tracks?playlist=17099)
 
-4. [Using Timeline: Working with Animation
-Clips](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-working-animation-clips?playlist=17099)
+4.  [Using Timeline: Working with Animation
+    Clips](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-working-animation-clips?playlist=17099)
 
 XR UX
 -----
