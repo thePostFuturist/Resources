@@ -117,7 +117,7 @@ Unity.
 [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
 
 3D Graphics
------------
+===========
 
 [Guerrilla CG](https://vimeo.com/user904568)
 
