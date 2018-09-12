@@ -46,7 +46,7 @@ section Using the Unity Interface, steps 1-6.
 6.  [The Inspector
     Window](https://unity3d.com/learn/tutorials/topics/interface-essentials/inspector-window?playlist=17090)
 
-Then Essential Unity Concepts 1.
+Then Essential Unity Concepts:
 
 1.  [Game Objects and
     Components](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090)
