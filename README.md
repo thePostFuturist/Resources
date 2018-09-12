@@ -54,6 +54,73 @@ Then Essential Unity Concepts 1.
 [Git](https://unity3d.com/learn/tutorials/topics/cloud-build/creating-your-first-source-control-repository),
 a version control system that we will use for collaboration.
 
+
+XR UX
+-----
+
+-   VR Book by Jason Jerald
+
+    -   Deep insight on the history of VR, and UX through Philosophy,
+        Psychology, and Neuroscience.
+
+    -   <http://www.thevrbook.net/>
+
+-   Meta
+
+    -   Meta has had an interesting combination of one of the pioneers of AR (
+        Steve Mann ), as well the designer behind Iron Man's helmet HUD.
+
+    -   Spatial Design Guidelines
+
+        -   <http://devcenter.metavision.com/design/spatial-interface-design-principles-introduction>
+
+        -   <https://blog.metavision.com/a-primer-on-augmented-reality-design-with-general-assembly-and-meta>
+
+-   Microsoft Hololens
+
+    -   Microsoft has had a head start on everybody due to it's tracking
+        algorithm (SLAM) first developed with the Kinect, providing a limited,
+        but capable product that dominated the market
+
+    -   <https://docs.microsoft.com/en-us/windows/mixed-reality/design>
+
+-   Leap Motion
+
+    -   <http://blog.leapmotion.com/ergonomics-vr-design/>
+
+Coding
+------
+
+##### Books
+
+[Learning C\# Programming with Unity 3D by Alex
+Okita](https://www.amazon.com/Learning-C-Programming-Unity-3D/dp/1466586524)
+
+A robust scope of programming within Unity
+
+[Holistic Game Development by Penny De
+Byl](http://www.pennydebyl.me/holistic3d/holistic-game-development/)
+
+A little dated, but is a good scope on not just programming but also learning
+Unity.
+
+##### Blogs and Channels
+
+[Catlike Tutorials](https://catlikecoding.com/unity/tutorials/)
+
+[VirtualityRipple](https://www.youtube.com/watch?v=zCjSO8-Pb00&list=PLGKDmLYR31_hXEpCThVfH9pm1K2iB3ztX)
+
+[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+
+[Infallible Code](https://www.youtube.com/channel/UCTjnCCcuIbrprhOiaDJxxHA)
+
+[Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+
+3D Graphics
+-----------
+
+[Guerrilla CG](https://vimeo.com/user904568)
+
 Lighting and Materials
 ======================
 
@@ -224,68 +291,3 @@ Mecanim](https://unity3d.com/learn/tutorials/topics/animation/animate-anything-m
 4.  [Using Timeline: Working with Animation
     Clips](https://unity3d.com/learn/tutorials/topics/animation/using-timeline-working-animation-clips?playlist=17099)
 
-XR UX
------
-
--   VR Book by Jason Jerald
-
-    -   Deep insight on the history of VR, and UX through Philosophy,
-        Psychology, and Neuroscience.
-
-    -   <http://www.thevrbook.net/>
-
--   Meta
-
-    -   Meta has had an interesting combination of one of the pioneers of AR (
-        Steve Mann ), as well the designer behind Iron Man's helmet HUD.
-
-    -   Spatial Design Guidelines
-
-        -   <http://devcenter.metavision.com/design/spatial-interface-design-principles-introduction>
-
-        -   <https://blog.metavision.com/a-primer-on-augmented-reality-design-with-general-assembly-and-meta>
-
--   Microsoft Hololens
-
-    -   Microsoft has had a head start on everybody due to it's tracking
-        algorithm (SLAM) first developed with the Kinect, providing a limited,
-        but capable product that dominated the market
-
-    -   <https://docs.microsoft.com/en-us/windows/mixed-reality/design>
-
--   Leap Motion
-
-    -   <http://blog.leapmotion.com/ergonomics-vr-design/>
-
-Coding
-------
-
-##### Books
-
-[Learning C\# Programming with Unity 3D by Alex
-Okita](https://www.amazon.com/Learning-C-Programming-Unity-3D/dp/1466586524)
-
-A robust scope of programming within Unity
-
-[Holistic Game Development by Penny De
-Byl](http://www.pennydebyl.me/holistic3d/holistic-game-development/)
-
-A little dated, but is a good scope on not just programming but also learning
-Unity.
-
-##### Blogs and Channels
-
-[Catlike Tutorials](https://catlikecoding.com/unity/tutorials/)
-
-[VirtualityRipple](https://www.youtube.com/watch?v=zCjSO8-Pb00&list=PLGKDmLYR31_hXEpCThVfH9pm1K2iB3ztX)
-
-[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
-
-[Infallible Code](https://www.youtube.com/channel/UCTjnCCcuIbrprhOiaDJxxHA)
-
-[Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
-
-3D Graphics
------------
-
-[Guerrilla CG](https://vimeo.com/user904568)
