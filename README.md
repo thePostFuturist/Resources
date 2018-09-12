@@ -56,7 +56,7 @@ a version control system that we will use for collaboration.
 
 
 XR UX
------
+=====
 
 -   VR Book by Jason Jerald
 
@@ -89,7 +89,7 @@ XR UX
     -   <http://blog.leapmotion.com/ergonomics-vr-design/>
 
 Coding
-------
+======
 
 ##### Books
 
