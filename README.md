@@ -283,6 +283,8 @@ Unity.
 
 [Infallible Code](https://www.youtube.com/channel/UCTjnCCcuIbrprhOiaDJxxHA)
 
+[Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+
 3D Graphics
 -----------
 
