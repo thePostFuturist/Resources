@@ -104,6 +104,11 @@ Byl](http://www.pennydebyl.me/holistic3d/holistic-game-development/)
 A little dated, but is a good scope on not just programming but also learning
 Unity.
 
+[C# Game Programming Cookbook for Unity 3D by Jeff W. Murray]
+(https://www.crcpress.com/C-Game-Programming-Cookbook-for-Unity-3D/Murray/p/book/9781466581401)
+
+
+
 ##### Blogs and Channels
 
 [Catlike Tutorials](https://catlikecoding.com/unity/tutorials/)
