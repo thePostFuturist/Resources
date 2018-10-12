@@ -247,8 +247,7 @@ simply a part of Unity's "Canvas", or a plane that defines the UI elements.
 Learn the basics of mecanim for more advanced animations: [Animate Anything with
 Mecanim](https://unity3d.com/learn/tutorials/topics/animation/animate-anything-mecanim?playlist=17099)
 
-[Sci-Fi UI Tutorial]
-(https://unity3d.com/learn/tutorials/topics/user-interface-ui/creating-main-menu?playlist=17111)
+[Sci-Fi UI Tutorial](https://unity3d.com/learn/tutorials/topics/user-interface-ui/creating-main-menu?playlist=17111)
 
 Image Targets: [Guidelines for Designing Image
 Targets](https://library.vuforia.com/articles/Solution/Optimizing-Target-Detection-and-Tracking-Stability.html)
