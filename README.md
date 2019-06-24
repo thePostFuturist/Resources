@@ -87,6 +87,10 @@ XR UX
 -   Leap Motion
 
     -   <http://blog.leapmotion.com/ergonomics-vr-design/>
+    
+-   Magic Leap
+
+    -   <https://creator.magicleap.com/learn/guides/design-principles>
 
 Coding
 ======
