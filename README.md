@@ -51,7 +51,7 @@ Then Essential Unity Concepts:
 1.  [Game Objects and
     Components](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090)
 
-[Git](https://unity3d.com/learn/tutorials/topics/cloud-build/creating-your-first-source-control-repository),
+[Git](https://www.youtube.com/watch?v=9wgNZKf_Flc),
 a version control system that we will use for collaboration.
 
 
